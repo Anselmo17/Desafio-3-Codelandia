@@ -1,3 +1,6 @@
+## Imagem do site
+<img src="./site/images/site.png">
+
 ## feito
 - banner
 - contatos
