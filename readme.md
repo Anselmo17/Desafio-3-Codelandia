@@ -1,7 +1,12 @@
 ## Imagem do site
 <img src="./site/images/site.png">
 
-## feito
+## tecnologias usadas
+- Html
+- Css
+- Javascript
+
+## features ok
 - banner
 - contatos
 - finalizar a seção de cards 
