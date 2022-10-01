@@ -1,6 +1,7 @@
 :root {
     --blue: rgb(32, 32, 131);
     --white: aliceblue;
+    --length-input: 95%;
 }
 
 body {
@@ -29,8 +30,6 @@ body {
 }
 
 .img-banner {
-    /*width: 90%;
-    height: auto;*/
     width: 100%;
     height: auto;
     margin: 5px 0 5px 0;
@@ -51,7 +50,7 @@ button {
 
 .btn-send {
     margin: 10px;
-    width: 100%;
+    width: 97%;
     max-width: 800px;
     height: 40px;
     font-size: 1.4rem;
@@ -146,7 +145,7 @@ form {
 input {
     border-radius: 5px;
     height: 25px;
-    width: 95%;
+    width: var(--length-input);
     padding: 10px;
     margin-bottom: 10px;
     font-size: 1.4em;
