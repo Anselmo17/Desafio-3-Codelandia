@@ -12,7 +12,7 @@
 - finalizar a seção de cards 
 
 ## pendente
-- finalizar a seção de cards 
-- validação do formulario
-- aumentar fonte do placeholder do formulário
-- criar botao de envio do formulario
+- finalizar a seção de cards [x]
+- validação do formulario []
+- aumentar fonte do placeholder do formulário [x]
+- criar botao de envio do formulario [x]
